@@ -5,4 +5,5 @@ sd
 gsd
 g
 sdfg
-![logo]logo.jpg
+![logo](logo.jpg)
+![manual](manual.pdf)
